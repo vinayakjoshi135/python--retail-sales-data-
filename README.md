@@ -117,7 +117,9 @@ The learnings can be applied to real-world retail decision-making and strategy d
 **Contributors**
 
 Vinayak Joshi 
+
 Nidhi Lakhe 
+
 Manik Tangade 
 
 
