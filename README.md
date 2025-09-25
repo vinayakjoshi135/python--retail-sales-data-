@@ -1,10 +1,10 @@
-# python--retail-sales-data-
+# python--retail-sales-data
 **Retail Sales Analysis
 Project Overview**
 
 This project focuses on analyzing retail sales data and building machine learning models to predict monthly sales. The primary objective is to identify key factors influencing sales and recommend the best-performing model for reliable predictions.
 
-** Dataset Description**
+**Dataset Description**
 
 The dataset Retail_Sales_Data contains records for 1000 retail stores with the following attributes:
 
